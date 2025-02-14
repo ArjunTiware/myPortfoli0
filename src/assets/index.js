@@ -33,9 +33,11 @@ import projectII from './project-2.png';
 import projectIII from './project-3.png';
 import arrowUp from './arrow-up-short.svg';
 import arrowUpRight from './box-arrow-up-right.svg';
+import profile from './profile.jpg';
 
 export {
     logo,
+    profile,
     arrowUpRight,
     arrowUp,
     hero,

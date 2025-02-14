@@ -2,7 +2,6 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <div>
       <section id='contact' className="text-gray-700z body-font relative">
         <div className="container sm:px-5 pt-16 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
@@ -53,7 +52,6 @@ const Contact = () => {
           </div>
         </div>
       </section>
-    </div>
   )
 }
 

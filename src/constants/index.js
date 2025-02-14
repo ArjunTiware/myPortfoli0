@@ -1,4 +1,4 @@
-import { facebook, github, instagram, linkedin, telegram, twitter, whatsapp} from "../assets";
+import { github, linkedin, telegram, whatsapp} from "../assets";
 
 export const navLinks = [
     {
@@ -18,8 +18,8 @@ export const navLinks = [
         title: "PROJECTS",
     },
     {
-        id: "gallery",
-        title: "GALLERY",
+        id: "contact",
+        title: "CONTACT",
     },
 ];
 
@@ -27,7 +27,7 @@ export const socialMedia = [
     {
         id: "social-media-1",
         icon: linkedin,
-        link: "https://www.linkedin.com/in/arjun-tiwari-zzz",
+        link: "https://www.linkedin.com/in/tiwariarjun/",
     },
     {
         id: "social-media-2",
